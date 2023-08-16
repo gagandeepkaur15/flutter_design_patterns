@@ -1,5 +1,4 @@
 import 'package:design_patterns/adapter.dart';
-import 'package:design_patterns/prototype1.dart';
 import 'package:flutter/material.dart';
 
 class HomePage2 extends StatefulWidget {

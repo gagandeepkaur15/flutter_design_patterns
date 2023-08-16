@@ -1,4 +1,3 @@
-import 'package:design_patterns/factory_method.dart';
 import 'package:design_patterns/home_page.dart';
 import 'package:design_patterns/singleton.dart';
 import 'package:design_patterns/singleton3.dart';

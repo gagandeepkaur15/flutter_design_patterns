@@ -1,7 +1,3 @@
-import 'dart:io';
-
-import 'package:design_patterns/abstract_factory.dart';
-import 'package:design_patterns/flutter_factory_method.dart';
 import 'package:design_patterns/singleton_with_abstract%20factory.dart';
 import 'package:flutter/material.dart';
 
